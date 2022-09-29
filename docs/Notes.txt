@@ -1,0 +1,66 @@
+In quality mode for every seam a new image is saved.
+The entire Result folder is 540MB and it's available on my machine.
+Current result folder is contained with only the final results and first seam images.
+
+
+python3 SeamCarving.py ../Inputs/In_0.png 50 50 quality 0_q
+--- 610.5500798225403 seconds ---
+python3 SeamCarving.py ../Inputs/In_0.png 50 50 time 0_t
+--- 145.01753759384155 seconds ---
+
+python3 SeamCarving.py ../Inputs/In_1.jpg 50 50 quality 1_q
+--- 3035.9262375831604 seconds ---
+python3 SeamCarving.py ../Inputs/In_1.jpg 50 50 time 1_t
+--- 583.8940863609314 seconds ---
+
+python3 SeamCarving.py ../Inputs/In_2.jpg 50 50 quality 2_q
+--- 1319.6649641990662 seconds ---
+python3 SeamCarving.py ../Inputs/In_2.jpg 50 50 time 2_t
+--- 287.3107988834381 seconds ---
+
+python3 SeamCarving.py ../Inputs/In_3.jpg 50 50 quality 3_q
+--- 6521.315616673249 seconds ---
+python3 SeamCarving.py ../Inputs/In_3.jpg 50 50 time 3_t
+--- 2006.7143371105194 seconds ---
+
+python3 SeamCarving.py ../Inputs/In_4.jpg 50 50 quality 4_q
+--- 2712.7476377487183 seconds ---
+python3 SeamCarving.py ../Inputs/In_4.jpg 50 50 time 4_t
+--- 511.1991837024689 seconds ---
+
+python3 SeamCarving.py ../Inputs/In_5.jpg 50 50 quality 5_q
+python3 SeamCarving.py ../Inputs/In_5.jpg 50 50 time 5_t
+--- 1112.4226460456848 seconds ---
+
+python3 SeamCarving.py ../Inputs/In_6.jpg 50 50 quality 6_q
+--- 4251.313216686249 seconds ---
+python3 SeamCarving.py ../Inputs/In_6.jpg 50 50 time 6_t
+--- 757.31556391716 seconds ---
+
+python3 SeamCarving.py ../Inputs/In_7.jpg 50 50 quality 7_q
+python3 SeamCarving.py ../Inputs/In_7.jpg 50 50 time 7_t
+--- 1008.8480806350708 seconds ---
+
+python3 SeamCarving.py ../Inputs/In_8.jpg 50 50 quality 8_q
+--- 1499.0910444259644 seconds ---
+python3 SeamCarving.py ../Inputs/In_8.jpg 50 50 time 8_t
+--- 314.73985385894775 seconds ---
+
+python3 SeamCarving.py ../Inputs/In_9.jpg 50 50 quality 9_q
+--- 2689.990191221237 seconds ---
+python3 SeamCarving.py ../Inputs/In_9.jpg 50 50 time 9_t
+--- 546.4390904903412 seconds ---
+
+python3 SeamCarving.py ../Inputs/In_10.jpeg 50 50 quality 10_q
+--- 732.7030103206635 seconds ---
+python3 SeamCarving.py ../Inputs/In_10.jpeg 50 50 time 10_t
+--- 174.42375111579895 seconds ---
+
+python3 SeamCarving.py ../Inputs/In_11.jpg 50 50 quality 11_q
+python3 SeamCarving.py ../Inputs/In_11.jpg 50 50 time 11_t
+--- 920.0009446144104 seconds ---
+
+python3 SeamCarving.py ../Inputs/In_12.jpg 50 50 quality 12_q
+--- 113.25266551971436 seconds ---
+python3 SeamCarving.py ../Inputs/In_12.jpg 50 50 time 12_t
+--- 33.32992506027222 seconds ---
