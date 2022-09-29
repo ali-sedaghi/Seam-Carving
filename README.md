@@ -36,14 +36,22 @@ $ python SeamCarving.py ../Inputs/In_1.jpg 50 50 time 1_t
 
 ## Results
 
-Input image
-![Input-Image](results/Inputs/In_6.jpg)
+Input Image
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ali-sedaghi/Seam-Carving/main/results/Inputs/In_6.jpg?token=GHSAT0AAAAAABZKT24IJPROJZQH364RVOW6YZWH2RQ" alt="Input-Image"/>
+</p>
 
 Vertical Seam
-![Vertical-Seam](results/Outputs/6_q/Seam_col0.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ali-sedaghi/Seam-Carving/main/results/Outputs/6_q/Seam_col0.jpg?token=GHSAT0AAAAAABZKT24JDPKJWMCE3XKJAQRWYZWH3KQ" alt="Vertical-Seam"/>
+</p>
 
 Horizontal Seam
-![Row-Seam](results/Outputs/6_q/Seam_row0.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ali-sedaghi/Seam-Carving/main/results/Outputs/6_q/Seam_row0.jpg?token=GHSAT0AAAAAABZKT24JCT6FJONYVZM2Y6CUYZWH4DA" alt="Horizontal-Seam"/>
+</p>
 
-Output
-![Output-Image](results/Outputs/6_q/Final.jpg)
+Output Image
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ali-sedaghi/Seam-Carving/main/results/Outputs/6_q/Final.jpg?token=GHSAT0AAAAAABZKT24ILUTHVQA27DD6DVVEYZWH42A" alt="Output-Image"/>
+</p>
