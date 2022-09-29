@@ -37,13 +37,13 @@ $ python SeamCarving.py ../Inputs/In_1.jpg 50 50 time 1_t
 ## Results
 
 Input image
-![Input-Image](results/Inputs/In_6.png)
+![Input-Image](results/Inputs/In_6.jpg)
 
 Vertical Seam
-![Vertical-Seam](results/Outputs/6_q/Seam_col0.png)
+![Vertical-Seam](results/Outputs/6_q/Seam_col0.jpg)
 
 Horizontal Seam
-![Row-Seam](results/Outputs/6_q/Seam_row0.png)
+![Row-Seam](results/Outputs/6_q/Seam_row0.jpg)
 
 Output
-![Output-Image](results/Outputs/6_q/Final.png)
+![Output-Image](results/Outputs/6_q/Final.jpg)
