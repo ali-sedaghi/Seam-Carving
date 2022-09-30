@@ -36,7 +36,7 @@ $ python SeamCarving.py ../Inputs/In_1.jpg 50 50 time 1_t
 
 ## Results
 
-Input image
+Input image [1200x800]
 ![Input-Image](results/Inputs/In_6.jpg)
 
 Vertical Seam
@@ -45,5 +45,5 @@ Vertical Seam
 Horizontal Seam
 ![Row-Seam](results/Outputs/6_q/Seam_row0.jpg)
 
-Output Image reduced 50px in each axis
+Output Image [1150x750]
 ![Output-Image](results/Outputs/6_q/Final.jpg)
